@@ -587,9 +587,10 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ## 👨‍💻 Author
 
-**Parag1337** - AI Game Developer
+**Aksh Upase7** - AI Game Developer
 
-Repository: [https://github.com/Parag1337/WereWolf-AI-Game](https://github.com/Parag1337/WereWolf-AI-Game)
+Repository: 
+(https://github.com/AkshUpase/WereWolf-AI-)
 
 ---
 
