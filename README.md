@@ -8,6 +8,17 @@ A sophisticated AI-powered implementation of the classic Werewolf (Mafia) party 
 
 ---
 
+## 🎯 Overview
+
+This project is an **automated simulation** of the Werewolf/Mafia party game where AI-controlled players compete against each other.
+
+### 🖼️ Game Interface
+
+![Game Screenshot](assets/screenshot.png)
+
+The interface shows the animated game board, AI player interactions, suspicion meters, and real-time game events.
+
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)

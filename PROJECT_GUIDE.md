@@ -387,6 +387,8 @@ ui.py runs ~30 times per second:
   8. Do it again!
 ```
 
+
+
 **Why it matters**: This is what you SEE. Without this, the game has no graphics.
 
 ---
